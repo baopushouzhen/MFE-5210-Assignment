@@ -10,6 +10,9 @@ cost)
 
 ![图片](https://github.com/user-attachments/assets/442f0c4d-6048-4c05-b5c5-4b61bf181b1e)
 
+![图片](https://github.com/user-attachments/assets/4849df59-498d-4f5b-83ec-873ebfaa7bf7)
+
+
 
 iii.​Factor Analysis​​
 ​1. Factor Correlation Analysis​​
