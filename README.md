@@ -41,7 +41,16 @@ The correlation matrix reveals significant differences in interdependencies:
     ​​Prioritize Alpha5​​: Use as the core factor, complemented by Alpha67 for diversification.
     ​​Monitor Alpha12​​: Its low correlation may improve portfolio stability, but validate its standalone efficacy.
     ​​Suspend Problematic Factors​​: Discontinue Alpha32 and Alpha23 until further validation.
+    
+OTHER:
 
+1.Data sources:AKshare
+
+import akshare as ak
+
+stock_zh_a_daily_hfq_df = ak.stock_zh_a_daily(symbol="sz000001", start_date="20220403", end_date="20250427", adjust="hfq")
+
+stock_zh_a_daily_hfq_df.to_csv("pingan.csv")     
 
 
 
